@@ -1,4 +1,4 @@
-package com.example.pc_piatto.config;
+/*package com.example.pc_piatto.config;
 
 import com.example.pc_piatto.domain.JwtService;
 import com.example.pc_piatto.domain.UserDetailsServiceImpl;
@@ -13,8 +13,6 @@ import org.springframework.security.core.context.SecurityContextHolder;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.web.authentication.WebAuthenticationDetailsSource;
 import org.springframework.stereotype.Component;
-import org.springframework.util.StringUtils;
-import org.springframework.web.filter.OncePerRequestFilter;
 
 
 import java.io.IOException;
@@ -60,3 +58,4 @@ public class JwtAuthenticationFilter extends OncePerRequestFilter {
         filterChain.doFilter(request, response);
     }
 }
+*/
